@@ -1,0 +1,28 @@
+{
+	"fcxversion": "701",
+	"launcherversion": "100",
+	"smodversion": "100",
+
+	"fcxtitle": "titulo update",
+	"fcximgs": {
+		"img1": "https:///imagen.jpg"
+	},
+	"fcxdesc": "descripción json",
+
+	"launchertitle": "titulo launcher",
+	"launcherimg": "",
+	"launcherdescripcion": "",
+
+	"smodtitle": "titulo",
+	"smodimg": "",
+	"smoddescripcion": "",
+
+	"novedadesid": "001",
+	"novedadestitulo": "Titulo novedades",
+	"novedadesimg": "https:///imagen.jpg",
+	"novedeadesdescripcion": "descripción novedades",
+
+	"linkfcx": "...",
+	"linklauncher": "...",
+	"linksmod": "..."
+}
