@@ -9,19 +9,19 @@
 		"img2": "https://i.imgur.com/U9RCoM6.gif",
 		"img3": "https://i.imgur.com/LwtzMmL.gif"
 	},
-	"fcxdesc": "descripción json",
+	"fcxdesc": "descripción json fcx",
 
 	"launchertitle": "titulo launcher",
-	"launcherimg": "",
-	"launcherdescripcion": "",
+	"launcherimg": "https://i.imgur.com/LwtzMmL.gif",
+	"launcherdescripcion": "descripción launcher",
 
-	"smodtitle": "titulo",
-	"smodimg": "",
-	"smoddescripcion": "",
+	"smodtitle": "titulo modo historia",
+	"smodimg": "https://i.imgur.com/U9RCoM6.gif",
+	"smoddescripcion": "descripcion modo historia",
 
-	"novedadesid": "001",
+	"novedadesid": "1",
 	"novedadestitulo": "Titulo novedades",
-	"novedadesimg": "https:///imagen.jpg",
+	"novedadesimg": "https://i.imgur.com/rwMpqnv.png",
 	"novedeadesdescripcion": "descripción novedades",
 
 	"linkfcx": "...",
