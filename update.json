@@ -5,7 +5,9 @@
 
 	"fcxtitle": "titulo update",
 	"fcximgs": {
-		"img1": "https:///imagen.jpg"
+		"img1": "https:///imagen1.jpg",
+		"img2": "https:///imagen2.jpg",
+		"img3": "https:///imagen3.jpg"
 	},
 	"fcxdesc": "descripción json",
 
