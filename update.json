@@ -13,15 +13,15 @@
 
 	"launchertitle": "titulo launcher",
 	"launcherimgs": {
-		"img1": https://i.imgur.com/LwtzMmL.gif",
-		"img2": https://i.imgur.com/LwtzMmL.gif"
+		"img1": "https://i.imgur.com/LwtzMmL.gif",
+		"img2": "https://i.imgur.com/LwtzMmL.gif"
 	},
 	"launcherdescripcion": "descripción launcher UPDATE",
 
 	"smodtitle": "titulo modo historia",
 	"smodimgs": {
-		"img1":"https://i.imgur.com/U9RCoM6.gif",
-		"img2":"https://i.imgur.com/U9RCoM6.gif"
+		"img1": "https://i.imgur.com/U9RCoM6.gif",
+		"img2": "https://i.imgur.com/U9RCoM6.gif"
 	},
 	"smoddescripcion": "descripcion modo historia",
 
