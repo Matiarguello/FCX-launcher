@@ -1,7 +1,7 @@
 {
 	"fcxversion": "701",
-	"launcherversion": "100",
-	"smodversion": "100",
+	"launcherversion": "101",
+	"smodversion": "101",
 
 	"fcxtitle": "Update 7.0.1 Iron man & Goku Xeno",
 	"fcximgs": {
@@ -12,11 +12,15 @@
 	"fcxdesc": "esta es una descripcion trataré de hacerla lo más larga posible para ver si ocurre el overflow o no, el tema es que quede bien, alguien verá algun dia este commit en github? si lo leiste hazmelo saber, hay premio we, no mentira pero si hay algo",
 
 	"launchertitle": "titulo launcher",
-	"launcherimg": "https://i.imgur.com/LwtzMmL.gif",
-	"launcherdescripcion": "descripción launcher",
+	"launcherimgs": {
+		"https://i.imgur.com/LwtzMmL.gif"
+	},
+	"launcherdescripcion": "descripción launcher UPDATE",
 
 	"smodtitle": "titulo modo historia",
-	"smodimg": "https://i.imgur.com/U9RCoM6.gif",
+	"smodimgs": {
+		"https://i.imgur.com/U9RCoM6.gif"
+	},
 	"smoddescripcion": "descripcion modo historia",
 
 	"novedadesid": "1",
