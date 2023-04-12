@@ -3,11 +3,13 @@
 	"launcherversion": "100",
 	"smodversion": "100",
 
-	"fcxtitle": "Update 7.0.1 Iron man & Goku Xeno",
+	"fcxtitle": "BUG FIXES 12/04/2023",
 	"fcximgs": {
 		"img1": "https://i.imgur.com/2scnoP1.jpg"
 	},
-	"fcxdesc": "Fix Gohan del Futuro SSJ3 | Baby Vegeta Sounds | Angeles: Wiss, Vados & Daishinkan",
+	"fcxdesc": "-Fix Gohan del Futuro SSJ3 <br> -Baby Vegeta Sounds <br> -Angeles: Wiss, Vados & Daishinkan",
+	"linkfcx": "https://www.mediafire.com/file/abxx73z8vatn5pl/fcx-update-7.0.1.zip/file",
+
 
 	"launchertitle": "titulo launcher",
 	"launcherimgs": {
@@ -28,7 +30,6 @@
 	"novedadesimg": "https://i.imgur.com/rwMpqnv.png",
 	"novedeadesdescripcion": "descripción novedades",
 
-	"linkfcx": "https://www.mediafire.com/file/5zmgslvcy2caa72/fcx-update-7.0.1.zip/file",
 	"linklauncher": "https://esf-zwarriors.foroargentina.net/forum",
 	"linksmod": "https://ar.computrabajo.com/empleos-en-mendoza?by=publicationtime"
 }
