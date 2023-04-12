@@ -1,0 +1,34 @@
+{
+	"fcxversion": "701",
+	"launcherversion": "100",
+	"smodversion": "100",
+
+	"fcxtitle": "Update 7.0.1 Iron man & Goku Xeno",
+	"fcximgs": {
+		"img1": "https://i.imgur.com/2scnoP1.jpg"
+	},
+	"fcxdesc": "Fix Gohan del Futuro SSJ3 | Baby Vegeta Sounds | Angeles: Wiss, Vados & Daishinkan",
+
+	"launchertitle": "titulo launcher",
+	"launcherimgs": {
+		"img1": "https://i.imgur.com/LwtzMmL.gif",
+		"img2": "https://i.imgur.com/LwtzMmL.gif"
+	},
+	"launcherdescripcion": "descripción launcher UPDATE",
+
+	"smodtitle": "titulo modo historiaaaaa",
+	"smodimgs": {
+		"img1": "https://i.imgur.com/U9RCoM6.gif",
+		"img2": "https://i.imgur.com/U9RCoM6.gif"
+	},
+	"smoddescripcion": "descripcion modo historia",
+
+	"novedadesid": "1",
+	"novedadestitulo": "Titulo novedades",
+	"novedadesimg": "https://i.imgur.com/rwMpqnv.png",
+	"novedeadesdescripcion": "descripción novedades",
+
+	"linkfcx": "https://infod.educacion.gob.ar/cursos?receiver=9",
+	"linklauncher": "https://esf-zwarriors.foroargentina.net/forum",
+	"linksmod": "https://ar.computrabajo.com/empleos-en-mendoza?by=publicationtime"
+}
