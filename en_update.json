@@ -9,7 +9,7 @@
 		"img2": "https://i.imgur.com/LpaUpRm.jpg",
 		"img3": "https://i.imgur.com/dzHhbRK.png"
 	},
-	"fcxdesc": "-[ FIX ] Piccoro al morir en estado base aparecia sin la capa <br> -[ FIX ] Golden Metal Cooler tenia 2 poderes menos, ahora tiene regeneracion. <br> [ FIX ] El apuntado del laser (freezer,cooler, etc) tenia mal el crosshair. <br> [ FIX ] Posicion del aura del gallitgun en baby vegeta. <br> -[ FIX BUG ] El jugador afectado con el cambio de ginyu, luego no podia transformarse. <br> -Faltaban algunos archivos de descripcion en los mapas de jefes <br> -[ FIX ] Se arreglaron algunas musicas del menu de musica (H)",
+	"fcxdesc": "-[ FIX ] Piccolo when dying in base state appeared without the cape <br> -[ FIX ] Golden Metal Cooler had 2 less powers, now he has regeneration. <br> [ FIX ] The aiming of the laser (freezer ,cooler, etc) the crosshair was wrong. <br> [ FIX ] Position of the gallitgun aura in baby vegeta. <br> -[ FIX BUG ] The player affected with the ginyu change, then could not transform. <br> -Some description files were missing on boss maps <br> -[ FIX ] Fixed some music from the music menu (H)",
 	"linkfcx": "https://www.mediafire.com/file/f63fhdqhxz37a5h/fcx-update-7.0.2.zip/file",
 
 	"launchertitle": "titulo launcher",
