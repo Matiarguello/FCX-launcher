@@ -3,18 +3,18 @@
 	"launcherversion": "100",
 	"smodversion": "100",
 
-	"fcxtitle": "BUG FIXES 12/04/2023",
+	"fcxtitle": "BUG FIXES 13/05/2023",
 	"fcximgs": {
-		"img1": "https://i.imgur.com/2scnoP1.jpg"
+		"img1": "https://i.imgur.com/2scnoP1.jpg",
+		"img2": "https://i.imgur.com/LpaUpRm.jpg",
+		"img3": "https://i.imgur.com/dzHhbRK.png"
 	},
-	"fcxdesc": "-Fix Gohan del Futuro SSJ3 <br> -Baby Vegeta Sounds <br> -Angeles: Wiss, Vados & Daishinkan",
+	"fcxdesc": "-[ FIX ] Piccoro al morir en estado base aparecia sin la capa <br> -[ FIX ] Golden Metal Cooler tenia 2 poderes menos, ahora tiene regeneracion. <br> [ FIX ] El apuntado del laser (freezer,cooler, etc) tenia mal el crosshair. <br> [ FIX ] Posicion del aura del gallitgun en baby vegeta. <br> -[ FIX BUG ] El jugador afectado con el cambio de ginyu, luego no podia transformarse. <br> -Faltaban algunos archivos de descripcion en los mapas de jefes",
 	"linkfcx": "https://www.mediafire.com/file/abxx73z8vatn5pl/fcx-update-7.0.1.zip/file",
-
 
 	"launchertitle": "titulo launcher",
 	"launcherimgs": {
-		"img1": "https://i.imgur.com/LwtzMmL.gif",
-		"img2": "https://i.imgur.com/LwtzMmL.gif"
+		"img1": "https://i.imgur.com/LwtzMmL.gif"
 	},
 	"launcherdescripcion": "descripción launcher UPDATE",
 
