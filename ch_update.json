@@ -1,14 +1,16 @@
 {
-	"fcxversion": "701",
+	"fcxversion": "702",
 	"launcherversion": "100",
 	"smodversion": "100",
 
-	"fcxtitle": "BUG修復 12/04/2023",
+	"fcxtitle": "錯誤修復 13/05/2023",
 	"fcximgs": {
-		"img1": "https://i.imgur.com/2scnoP1.jpg"
+		"img1": "https://i.imgur.com/SylzJmi.jpg",
+		"img2": "https://i.imgur.com/LpaUpRm.jpg",
+		"img3": "https://i.imgur.com/dzHhbRK.png"
 	},
-	"fcxdesc": "-修復未來的 Gohan SSJ3 <br> -Baby Vegeta 的聲音 <br> -Angels: Wiss, Vados & Daishinkan",
-	"linkfcx": "https://www.mediafire.com/file/abxx73z8vatn5pl/fcx-update-7.0.1.zip/file",
+	"fcxdesc": "-[修復]當比克在基本狀態下死亡時，他沒有披風出現<br>-[修復]金色金屬冷卻器的能量減少了2,現在他有再生能力。<br>[修復]激光瞄準（冰櫃、冷卻器等）十字準線錯誤。<br> [修復]貝吉塔寶寶中加利特槍光環的位置。<br> -[修復錯誤]受基紐變化影響的玩家無法變身. <br> - 某些文件在 boss 地圖中缺少描述 <br> -[ 修復 ] 修復了音樂菜單 (H) 中的一些音樂 ",
+	"linkfcx": "https://www.mediafire.com/file/f63fhdqhxz37a5h/fcx-update-7.0.2.zip/file",
 
 	"launchertitle": "titulo launcher",
 	"launcherimgs": {
