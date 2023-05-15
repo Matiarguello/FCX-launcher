@@ -1,10 +1,9 @@
 {
-	"news_id": "1",
-	"news_title": "Añadiendo novedades",
+	"news_id": "2",
+	"news_title": "Añadiendo novedades 2",
 	"news_imgs": {
-		"img1": "https://i.imgur.com/2scnoP1.jpg",
-		"img2": "https://i.imgur.com/2scnoP1.jpg"
+		"img1": "https://i.imgur.com/2scnoP1.jpg"
 	},
-	"news_desc": "Novedades - descripcion",
-	"news_link": "https://www.mediafire.com/file/abxx73z8vatn5pl/fcx-update-7.0.1.zip/file"
+	"news_desc": "Novedades - descripcion 22",
+	"news_link": "null"
 }
