@@ -1,9 +1,9 @@
 {
-	"news_id": "0",
+	"news_id": "1",
 	"news_title": "titulo",
 	"news_imgs": {
 		"img1": "https://i.imgur.com/2scnoP1.jpg"
 	},
 	"news_desc": "descripcion",
-	"news_link": "null"
+	"news_link": "www.google.com"
 }
