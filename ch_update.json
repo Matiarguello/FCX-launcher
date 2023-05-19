@@ -1,6 +1,6 @@
 {
 	"fcxversion": "702",
-	"launcherversion": "100",
+	"launcherversion": "101",
 	"smodversion": "100",
 
 	"fcxtitle": "錯誤修復 13/05/2023",
@@ -12,12 +12,12 @@
 	"fcxdesc": "-[修復]當比克在基本狀態下死亡時，他沒有披風出現<br>-[修復]金色金屬冷卻器的能量減少了2,現在他有再生能力。<br>[修復]激光瞄準（冰櫃、冷卻器等）十字準線錯誤。<br> [修復]貝吉塔寶寶中加利特槍光環的位置。<br> -[修復錯誤]受基紐變化影響的玩家無法變身. <br> - 某些文件在 boss 地圖中缺少描述 <br> -[ 修復 ] 修復了音樂菜單 (H) 中的一些音樂 ",
 	"linkfcx": "https://www.mediafire.com/file/f63fhdqhxz37a5h/fcx-update-7.0.2.zip/file",
 
-	"launchertitle": "titulo launcher",
+	"launchertitle": "啟動器更新 19/05/2023",
 	"launcherimgs": {
-		"img1": "https://i.imgur.com/LwtzMmL.gif",
-		"img2": "https://i.imgur.com/LwtzMmL.gif"
+		"img1": "https://i.imgur.com/o4UYF1O.jpg"
 	},
-	"launcherdescripcion": "descripción launcher UPDATE",
+	"launcherdescripcion": "-與 Windows 7/8 32 位兼容 <br> -轉到遊戲文件夾的按鈕 <br> -新聞部分 <br> -[修復]啟動器聲音",
+	"linklauncher": "https://www.mediafire.com/file/n4qwep3l1f33463/LauncherFCX-32Bits.zip/file",
 
 	"smodtitle": "titulo modo historiaaaaa",
 	"smodimgs": {
@@ -25,12 +25,12 @@
 		"img2": "https://i.imgur.com/U9RCoM6.gif"
 	},
 	"smoddescripcion": "descripcion modo historia",
+	"linksmod": "",
 
 	"novedadesid": "1",
 	"novedadestitulo": "Titulo novedades",
 	"novedadesimg": "https://i.imgur.com/rwMpqnv.png",
-	"novedeadesdescripcion": "descripción novedades",
+	"novedeadesdescripcion": "descripción novedades"
 
-	"linklauncher": "https://esf-zwarriors.foroargentina.net/forum",
-	"linksmod": "https://ar.computrabajo.com/empleos-en-mendoza?by=publicationtime"
+
 }

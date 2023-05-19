@@ -1,6 +1,6 @@
 {
 	"fcxversion": "702",
-	"launcherversion": "100",
+	"launcherversion": "101",
 	"smodversion": "100",
 
 	"fcxtitle": "BUG FIXES 13/05/2023",
@@ -12,11 +12,12 @@
 	"fcxdesc": "-[ FIX ] Piccolo when dying in base state appeared without the cape <br> -[ FIX ] Golden Metal Cooler had 2 less powers, now he has regeneration. <br> [ FIX ] The aiming of the laser (freezer ,cooler, etc) the crosshair was wrong. <br> [ FIX ] Position of the gallitgun aura in baby vegeta. <br> -[ FIX BUG ] The player affected with the ginyu change, then could not transform. <br> -Some description files were missing on boss maps <br> -[ FIX ] Fixed some music from the music menu (H)",
 	"linkfcx": "https://www.mediafire.com/file/f63fhdqhxz37a5h/fcx-update-7.0.2.zip/file",
 
-	"launchertitle": "titulo launcher",
+	"launchertitle": "Launcher Update 19/05/2023",
 	"launcherimgs": {
-		"img1": "https://i.imgur.com/LwtzMmL.gif"
+		"img1": "https://i.imgur.com/o4UYF1O.jpg"
 	},
-	"launcherdescripcion": "descripción launcher UPDATE",
+	"launcherdescription": "-Compatible with Windows 7/8 32 bits <br> -Button to go to the game folder <br> -News section <br> -[ FIX ] Launcher sounds",
+	"linklauncher": "https://www.mediafire.com/file/n4qwep3l1f33463/LauncherFCX-32Bits.zip/file",
 
 	"smodtitle": "titulo modo historiaaaaa",
 	"smodimgs": {
@@ -24,12 +25,10 @@
 		"img2": "https://i.imgur.com/U9RCoM6.gif"
 	},
 	"smoddescripcion": "descripcion modo historia",
+	"linksmod": "",
 
 	"novedadesid": "1",
 	"novedadestitulo": "Titulo novedades",
 	"novedadesimg": "https://i.imgur.com/rwMpqnv.png",
-	"novedeadesdescripcion": "descripción novedades",
-
-	"linklauncher": "https://esf-zwarriors.foroargentina.net/forum",
-	"linksmod": "https://ar.computrabajo.com/empleos-en-mendoza?by=publicationtime"
+	"novedeadesdescripcion": "descripción novedades"
 }
