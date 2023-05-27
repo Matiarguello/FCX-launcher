@@ -6,6 +6,6 @@
 		"img2": "https://media.discordapp.net/attachments/724013786801111060/1087876744356311131/CellBossCellJrMiniBossYouLose.png?width=1080&height=458",
 		"img3": "https://media.discordapp.net/attachments/724013786801111060/1087876641973346354/CellBossCellJrMiniBossYouWin.png?width=1080&height=458"
 	},
-	"news_desc": "<video width='320' height='240' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br>",
+	"news_desc": "<video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br>",
 	"news_link": "www.google.com"
 }
