@@ -4,8 +4,9 @@
 	"news_imgs": {
 		"img1": "https://i.imgur.com/zdow53L.png",
 		"img2": "https://i.imgur.com/jky5FHJ.jpg",
-		"img3": "https://i.imgur.com/jky5FHJ.jpg"
+		"img3": "https://i.imgur.com/WF51TV2.jpg",
+		"img4": "https://i.imgur.com/zkXZoUY.jpg"
 	},
-	"news_desc": "<video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br> <video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129537662922762/MuerteDeCellConceptoCompleto.mp4' type='video/mp4'></video> <br> Y estas son todas las novedades que traerá esta actualización, muchas muchas gracias a ArielPVB que fue el encargado de realizar estas animaciones en los modelos que le quedaron genial, pronto veremos el resultado en el juego :D",
+	"news_desc": "<video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br> <video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129537662922762/MuerteDeCellConceptoCompleto.mp4' type='video/mp4'></video> <br> Y estas son todas las novedades que traerá esta actualización, muchas muchas gracias a ArielPVB que fue el encargado de realizar estas animaciones en los modelos que le quedaron genial, pronto veremos el resultado en el juego :D <br> -Cell boss final mejorado <br>-Mini juego de cell jrs <br>-Cell jr sera un personaje jugable <br>-Nuevo Special de autodestruccion de cell",
 	"news_link": "null"
 }
