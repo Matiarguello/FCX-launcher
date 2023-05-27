@@ -1,9 +1,12 @@
 {
-	"news_id": "0",
-	"news_title": "titulo",
+	"news_id": "7",
+	"news_title": "Cell Update (in development)",
 	"news_imgs": {
-		"img1": "https://i.imgur.com/2scnoP1.jpg"
+		"img1": "https://i.imgur.com/zdow53L.png",
+		"img2": "https://i.imgur.com/jky5FHJ.jpg",
+		"img3": "https://i.imgur.com/WF51TV2.jpg",
+		"img4": "https://i.imgur.com/zkXZoUY.jpg"
 	},
-	"news_desc": "descripcion",
+	"news_desc": "<video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br> <video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129537662922762/MuerteDeCellConceptoCompleto.mp4' type='video/mp4'></video> <br> And these are all the novelties that this update will bring, many many thanks to ArielPVB who was in charge of making these animations on the models that turned out great, soon we will see the result in the game :D <br> -Cell boss final improved < br>-Mini game of cell jrs <br>-Cell jr will be a playable character <br>-New Cell self-destruct Special",
 	"news_link": "null"
 }

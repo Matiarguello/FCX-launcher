@@ -1,9 +1,12 @@
 {
-	"news_id": "0",
-	"news_title": "titulo",
+	"news_id": "7",
+	"news_title": "單元格更新（開發中）",
 	"news_imgs": {
-		"img1": "https://i.imgur.com/2scnoP1.jpg"
+		"img1": "https://i.imgur.com/zdow53L.png",
+		"img2": "https://i.imgur.com/jky5FHJ.jpg",
+		"img3": "https://i.imgur.com/WF51TV2.jpg",
+		"img4": "https://i.imgur.com/zkXZoUY.jpg"
 	},
-	"news_desc": "descripcion",
+	"news_desc": "<video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129402543415556/CellAutodestruccionConcepto.mp4' type='video/mp4'></video> <br> <video width='640' height='480' controls> <source src='https://cdn.discordapp.com/attachments/724013786801111060/1108129537662922762/MuerteDeCellConceptoCompleto.mp4' type='video/mp4'></video> <br> 這些就是這次更新帶來的所有新奇事物，非常感謝 ArielPVB，他負責在模型上製作這些動畫，結果非常棒，很快我們就會在遊戲中看到結果 :D <br> -Cell boss最終改進 < br>-cell jrs 迷你游戲 <br>-Cell jr 將成為一個可玩角色 <br>-New Cell 自毀特別版",
 	"news_link": "null"
 }
